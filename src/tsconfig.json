@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "jsxFactory": "h",
+    "lib": ["esnext", "dom"],
+    "noFallthroughCasesInSwitch": true,
+    "noUnusedLocals": true,
+    "module": "esnext"    
+  } 
+}
